@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My journey to my first CLI program."
-date:       2019-12-11 06:39:30 +0000
+date:       2019-12-11 01:39:31 -0500
 permalink:  my_journey_to_my_first_cli_program
 ---
 
