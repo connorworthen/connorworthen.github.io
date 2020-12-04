@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Api / Js Project"
-date:       2020-12-04 02:05:37 +0000
+date:       2020-12-03 21:05:40 -0500
 permalink:  rails_api_js_project
 ---
 
